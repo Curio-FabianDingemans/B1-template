@@ -201,6 +201,15 @@ footer{
   border: none;
 }
 
+.product-info-div{
+  display: flex;
+  justify-content: center;
+}
+
+.product-info-text p{
+  margin: 0;
+}
+
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
