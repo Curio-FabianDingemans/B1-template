@@ -184,6 +184,16 @@ footer{
   justify-content: center;
 }
 
+.emphasize{
+  box-shadow: #272727 1px 0px 5px;
+  padding: 1rem;
+}
+
+.emphasize h2{
+  margin: 0;
+  border: none;
+}
+
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
